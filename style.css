@@ -22,7 +22,8 @@ body {
 
 .hello {
   z-index: 100;
-  color: rgba(145, 233, 255, 0.2);
+  color:rgba(145, 233, 255, 0.2) ;
+  
   position: absolute;
   top: 0; /* Coloca el elemento en la parte superior */
   left: 30%; /* Ajusta el elemento a la mitad del ancho */
